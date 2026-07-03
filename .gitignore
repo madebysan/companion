@@ -1,0 +1,11 @@
+.build/
+build/
+.swiftpm/
+dist/
+work/
+Companion/.release/
+*.xcodeproj/xcuserdata/
+DerivedData/
+.DS_Store
+*.dmg
+plan.md
