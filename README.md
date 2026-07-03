@@ -19,9 +19,7 @@ Companion is a macOS menu bar app for quick writing tasks. It works in Mail, Not
 
 Companion is an evolution of [Rewrite](https://github.com/madebysan/rewrite), another simpler Mac app tackling a similar use case.
 
-<video src="https://github.com/madebysan/companion/releases/latest/download/companion-demo.mp4" controls width="100%">
-  <a href="https://github.com/madebysan/companion/releases/latest/download/companion-demo.mp4">Watch the Companion demo</a>
-</video>
+https://github.com/user-attachments/assets/dff2816f-f1be-4334-ae09-69ea52ab66cf
 
 ## What it does
 
